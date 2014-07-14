@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  <main id="blog" class="clearfix">
+    <section class="content">
+
+      {% for post in posts %}
+	<article class="post">
+	  <header>
+	    <a href="/blog#{{ post.meta.url }}">
+	      <h1>{{ post.meta.title }}</h1>
+	    </a>
+	  </header>
+	  <section class="clearfix">
+	    <div class="pull-left info">
+	      <div>
+		<strong>Date </strong><em>{{ post.meta.date }}</em>
+	      </div>
+	    </div>
+	    <div class="pull-right cnt">
+	      {{ post.content }}
+	    </div>
+	  </section>
+	</article>
+
+       {% endfor %}
+    </section>
+  </main>
+
+{% endblock %}

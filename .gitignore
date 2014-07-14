@@ -1,0 +1,4 @@
+*.py[co]
+*~
+css/*.css
+_build/

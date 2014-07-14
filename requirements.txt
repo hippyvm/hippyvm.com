@@ -1,0 +1,4 @@
+Jinja2==2.7.2
+pyScss==1.2.0.post3
+Markdown==2.4
+buzzy
