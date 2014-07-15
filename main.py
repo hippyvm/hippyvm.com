@@ -8,7 +8,7 @@ from datetime import datetime
 
 class StaticSite(buzzy.Base):
 
-    INCLUDE = ['static', 'favicon.ico', 'robots.txt', 'data.json']
+    INCLUDE = ['static', 'favicon.ico', 'robots.txt', 'data.json', 'CNAME']
     TEMPLATES_DIR = buzzy.Base.BASE_DIR
 
     @buzzy.register
