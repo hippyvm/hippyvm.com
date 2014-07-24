@@ -33,7 +33,7 @@ class StaticSite(buzzy.Base):
             reverse=True
         )
 
-        yield buzzy.render.template('blog.html', "blog", posts=posts)
+        yield buzzy.render.template('blog.html', "blog.html", posts=posts)
 
     @buzzy.register
     def css(self):
