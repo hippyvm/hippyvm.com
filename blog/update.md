@@ -1,5 +1,5 @@
 Title:   MediaWiki, GitHub and PHP Conference in Brno
-Date:    01-08-2014
+Date:    04-08-2014
 url:     update-mediawiki-github-brno
 
 
