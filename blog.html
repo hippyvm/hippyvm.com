@@ -6,9 +6,9 @@
     <section class="content">
 
       {% for post in posts %}
-	<article class="post">
+	<article class="post" id="{{ post.meta.url }}">
 	  <header>
-	    <a href="/blog#{{ post.meta.url }}">
+	    <a href="/blog.html#{{ post.meta.url }}">
 	      <h1>{{ post.meta.title }}</h1>
 	    </a>
 	  </header>
