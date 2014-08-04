@@ -25,7 +25,7 @@ Our most recent priorities stands for few things:
 which we've put a lot of effort/focus on: [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki),
 and [WordPress](http://wordpress.org/).   
 
-**Performance**: We're doing very well here. In some areas we are even a bit ahead of both HHVM and PHP! Still there's lots of room for improvements - and we are on it!
+**Performance**: We're doing very well here. In some areas we are even a bit ahead of both HHVM and PHP. Still there's lots of room for improvements - and we are on it!
 
 **Completeness**: Here HippyVM is still behind PHP, we are missing a few functions/classes here and there. 
 Since we are really small team, it'll take a while, but we're working hard to get there!
