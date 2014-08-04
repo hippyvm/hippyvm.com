@@ -60,7 +60,5 @@ planning to have a novel bridge which would let you leverage the Python ecosyste
 from PHP. Additionally, we're investing ongoing effort into making our JIT
 technology even better and making both PyPy and Hippy a lot faster.
 
-Cheers,
-
-
+Cheers,  
 Maciej Fijalkowski and the entire HippyVM team.
