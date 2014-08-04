@@ -61,4 +61,4 @@ from PHP. Additionally, we're investing ongoing effort into making our JIT
 technology even better and making both PyPy and Hippy a lot faster.
 
 Cheers,  
-Maciej Fijalkowski and the entire HippyVM team.
+[Maciej Fijałkowski](https://twitter.com/fijall) and the entire HippyVM team.
