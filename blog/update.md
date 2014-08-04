@@ -51,6 +51,5 @@ ask a question, open Github [issue](https://github.com/hippyvm/hippyvm/issues),
 or just simply send us an email at [contact@hippyvm.com](mailto:contact@hippyvm.com).
 
 
-Have a productive Monday,
-
+Have a productive Monday,  
 Sebastian and HippyVM team. 
